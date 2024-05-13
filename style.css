@@ -6,38 +6,38 @@
 
 .exemplo-static {
     position: static;
-    background-color: blue;
+    background-color: cornflowerblue;
 }
 
 .exemplo-fixed {
     position: fixed;
     bottom: 20px;
     right: 20px;
-    background-color: blue;
+    background-color:cornflowerblue;
 }
 
 .exemplo-relative {
     position: relative;
     left: 25px;
-    background-color: blue;
+    background-color: cornflowerblue;
 }
 
 .exemplo-relative-02 {
     position: relative;
     height: 100px;
-    background-color: blue;
+    background-color: cornflowerblue;
 }
 
 .exemplo-absolute {
     position: absolute;
     right: 10px;
     bottom: 5px;
-    background-color: blue;
+    background-color: cornflowerblue;
 }
 
 .exemplo-sticky {
     position: sticky;
     bottom: 0;
     top: 0;
-    background-color: blue;
+    background-color: cornflowerblue;
 }
